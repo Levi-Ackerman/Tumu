@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Download\git\Tumu\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2d9f83181635731db297fd7c59a9049c5ccbffd">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-7907b50dc51f430f1dc5bcdd3bdaefb8607cb26e.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin-0d55017b6b00d4d399b44081a70689988e3dcb67.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\android-support-v7-gridlayout.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="de437497db7c5747ebce335228585422156eb512">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v7-gridlayout-1effa63b58b52b62201f7f992c8a980d12c36736.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v4-62cb67c8fcd2808b91d03b0bb7e61d9e2a9f96f8.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\slf4j-api-1.6.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce53b0a0e2cfbb27e8a59d38f79a18a5c6a8d2b0">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\slf4j-api-1.6.6-af639447e985c95efbbbed5545ec851aa4db608d.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\achartengine-1.1.0-d6b02fdceb0606ca3fe2ee5e77f51ff87e3a1e13.jar" />
+    </item>
+    <item
+        jar="D:\Download\git\Tumu\libs\mina-core-2.0.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2bf41f34da46e8e40ba76301f7ca56cf36c2d26">
+        <dex dex="D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\mina-core-2.0.7-873f077b70de3f8918ad6f687ed0fe4ab3a1f38a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+D:\Download\git\Tumu\build\intermediates\classes\debug
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\slf4j-api-1.6.6-af639447e985c95efbbbed5545ec851aa4db608d.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v7-gridlayout-1effa63b58b52b62201f7f992c8a980d12c36736.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\achartengine-1.1.0-d6b02fdceb0606ca3fe2ee5e77f51ff87e3a1e13.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin-0d55017b6b00d4d399b44081a70689988e3dcb67.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-7907b50dc51f430f1dc5bcdd3bdaefb8607cb26e.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\mina-core-2.0.7-873f077b70de3f8918ad6f687ed0fe4ab3a1f38a.jar
+D:\Download\git\Tumu\build\intermediates\pre-dexed\debug\android-support-v4-62cb67c8fcd2808b91d03b0bb7e61d9e2a9f96f8.jar
