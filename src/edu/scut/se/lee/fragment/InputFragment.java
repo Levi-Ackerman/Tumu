@@ -2,7 +2,7 @@ package edu.scut.se.lee.fragment;
 
 import net.tsz.afinal.annotation.view.ViewInject;
 import edu.scut.se.lee.R;
-import edut.scut.se.lee.util.Cache;
+import edu.scut.se.lee.util.Cache;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
